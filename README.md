@@ -1,2 +1,2 @@
 # javascrip_learning
-learning the basic of javascript
+learning the basics of javascript
